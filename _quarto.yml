@@ -6,21 +6,18 @@ website:
   title: "Dirschbacher Data Lab"
   navbar:
     left:
-      - href: index.qmd
-        text: "Start"
       - href: index.de.qmd
-        text: "Deutsch"
-      - href: index.en.qmd
-        text: "English"
+        text: "Start"
       - href: projects.de.qmd
         text: "Projekte"
-      - href: projects.en.qmd
-        text: "Projects"
       - href: about.de.qmd
         text: "Über mich"
-      - href: about.en.qmd
-        text: "About me"
+      
+      
+      
     right:
+      - href: index.en.qmd
+        text: "English"
       - icon: github
         href: "https://github.com/Svenja161"
 
