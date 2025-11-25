@@ -1,0 +1,27 @@
+project:
+  output-dir: docs/en
+
+website:
+  title: "Dirschbacher Data Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: projects.qmd
+        text: "Projects"
+      - href: about.qmd
+        text: "About me"
+
+    right:
+      - text: "Deutsch"
+        href: ../de/index.html
+      - icon: github
+        href: "https://github.com/Svenja161"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+
+lang: en
