@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "de/index.html#leistungen",
+    "href": "de/index.html#leistungen",
+    "title": "# Willkommen beim Dirschbacher Data Lab",
+    "section": "Leistungen",
+    "text": "Leistungen\nDatenanalyse & Reporting - Deskriptive Auswertungen, Visualisierungen, Dashboards - Reproducible Reports (RMarkdown/Quarto, GitHub)\nForschungsunterstützung - Fragebogen- & Studiendesign (quantitativ) - Auswertung von Umfragedaten und Paneldaten - Unterstützung bei Abschlussarbeiten und Projektreports\nBeratung & Sparring - Methodische Beratung (z.B. Paneldaten, Fixed Effects, Mediation) - Review von bestehenden Analysen - Unterstützung bei Datenaufbereitung & Dokumentation"
+  },
+  {
+    "objectID": "de/index.html#für-wen-ich-arbeite",
+    "href": "de/index.html#für-wen-ich-arbeite",
+    "title": "# Willkommen beim Dirschbacher Data Lab",
+    "section": "Für wen ich arbeite",
+    "text": "Für wen ich arbeite\n\nNGOs & Vereine, die ihre Wirkung besser sichtbar machen wollen\n\nUnternehmen & Startups, die Daten nutzen wollen, aber (noch) kein großes Data-Team haben\n\nForschungseinrichtungen / Projekte, die zusätzliche Analysepower brauchen"
+  },
+  {
+    "objectID": "de/index.html#projekte-beispiele",
+    "href": "de/index.html#projekte-beispiele",
+    "title": "# Willkommen beim Dirschbacher Data Lab",
+    "section": "Projekte & Beispiele",
+    "text": "Projekte & Beispiele\nImpact von Unterbringung auf soziale Integration von Geflüchteten (Masterarbeit)\n- Analyse von Paneldaten (IAB-BAMF-SOEP Refugee Survey)\n- Fokus: Zusammenhang zwischen Aufenthaltsdauer in Gemeinschaftsunterkünften, Sprachkompetenz und sozialem Kapital\n- Methoden: Fixed-Effects-Modelle, Mediation, Visualisierung von Zeitverläufen\n(PDF oder Zusammenfassung kann hier später verlinkt werden.)\nBeispiel: Explorative Analyse & Report mit R - Datenaufbereitung, Visualisierungen, klarer Report für Nicht-Techniker*innen - Reproducible Workflow mit Git + R"
+  },
+  {
+    "objectID": "de/index.html#wie-ich-arbeite",
+    "href": "de/index.html#wie-ich-arbeite",
+    "title": "# Willkommen beim Dirschbacher Data Lab",
+    "section": "Wie ich arbeite",
+    "text": "Wie ich arbeite\n\nTransparent & reproduzierbar: Code ist versioniert und dokumentiert.\nErklärt statt nur geliefert: Ergebnisse werden so aufbereitet, dass sie intern weitergetragen werden können.\nPragmatisch: Lieber ein klarer, robuster Ansatz als ein überkomplexes Modell ohne Mehrwert."
+  },
+  {
+    "objectID": "de/index.html#tech-stack",
+    "href": "de/index.html#tech-stack",
+    "title": "# Willkommen beim Dirschbacher Data Lab",
+    "section": "Tech-Stack",
+    "text": "Tech-Stack\n\nR (Tidyverse, ggplot2, fixest, broom, …)\n\nQuarto / RMarkdown für Reports\n\nGit & GitHub für Versionierung & Zusammenarbeit\n\nExport nach PDF, HTML, Word – je nach Bedarf"
+  },
+  {
+    "objectID": "de/index.html#über-mich",
+    "href": "de/index.html#über-mich",
+    "title": "# Willkommen beim Dirschbacher Data Lab",
+    "section": "Über mich",
+    "text": "Über mich\nIch bin Sozialwissenschaftler*in mit Schwerpunkt Stadt- und Regionalentwicklung und arbeite vor allem mit quantitativen Methoden.\nBesonders interessieren mich Themen wie Migration, Wohnen, Ungleichheit und soziale Netzwerke – und wie man sie mit Daten besser versteht."
+  },
+  {
+    "objectID": "de/index.html#kontakt",
+    "href": "de/index.html#kontakt",
+    "title": "# Willkommen beim Dirschbacher Data Lab",
+    "section": "Kontakt",
+    "text": "Kontakt\n📧 E-Mail: dirschbacher-data-lab@posteo.de\n🔗 GitHub: @Svenja161"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Dirschbacher Data Lab",
+    "section": "",
+    "text": "Data analysis & research with R & Python – for NGOs, companies and startups. I support small to medium-sized analysis and research projects — from exploratory analyses to clean, fully reproducible reports. —\n\n\nData Analysis & Reporting - Descriptive analyses, visualizations, dashboards\n- Reproducible reports (RMarkdown/Quarto, GitHub)\nResearch Support - Questionnaire and study design (quantitative)\n- Analysis of survey and panel data\n- Support for academic theses and research reports\nConsulting & Sparring - Methodological consulting (e.g., panel data, fixed effects, mediation)\n- Review of existing analyses\n- Support with data cleaning & documentation\n\n\n\n\n\nNGOs & non-profits aiming to make their impact more visible\n\nCompanies & startups that want to leverage data but don’t yet have a full data team\n\nResearch institutions / projects needing additional analytical capacity\n\n\n\n\n\nImpact of Housing Conditions on Social Integration among Refugees (Master’s Thesis)\n- Panel data analysis (IAB-BAMF-SOEP Refugee Survey)\n- Focus: Relationship between duration of stay in collective housing, language proficiency, and social capital\n- Methods: Fixed-effects models, mediation, visualization of time trends\n(PDF or summary can be linked here later.)\nExample: Exploratory Analysis & Report with R\n- Data preparation, visualizations, clear reporting for non-technical audiences\n- Reproducible workflow with Git + R\n\n\n\n\nTransparent & reproducible: Code is versioned and documented.\n\nExplained, not just delivered: Results are prepared so they can be shared internally with ease.\n\nPragmatic: I prefer a clear, robust approach over overly complex models without added value.\n\n\n\n\n\n\n\nR (tidyverse, ggplot2, fixest, broom, …)\n\nQuarto / RMarkdown for reports\n\nGit & GitHub for version control & collaboration\n\nExport to PDF, HTML, Word — depending on your needs\n\n\n\n\n\nI am a social scientist specializing in urban and regional development, working primarily with quantitative methods.\nI’m especially interested in topics such as migration, housing, inequality, and social networks — and how data can help us understand them better.\n\n\n\n\n📧 EMail: dirschbacher-data-lab@posteo.de\n🔗 GitHub: @Svenja161\nFeel free to send me a message with a short description of your project — I’m happy to explore how I can support you."
+  },
+  {
+    "objectID": "en/index.html#services",
+    "href": "en/index.html#services",
+    "title": "Dirschbacher Data Lab",
+    "section": "",
+    "text": "Data Analysis & Reporting - Descriptive analyses, visualizations, dashboards\n- Reproducible reports (RMarkdown/Quarto, GitHub)\nResearch Support - Questionnaire and study design (quantitative)\n- Analysis of survey and panel data\n- Support for academic theses and research reports\nConsulting & Sparring - Methodological consulting (e.g., panel data, fixed effects, mediation)\n- Review of existing analyses\n- Support with data cleaning & documentation"
+  },
+  {
+    "objectID": "en/index.html#who-i-work-with",
+    "href": "en/index.html#who-i-work-with",
+    "title": "Dirschbacher Data Lab",
+    "section": "",
+    "text": "NGOs & non-profits aiming to make their impact more visible\n\nCompanies & startups that want to leverage data but don’t yet have a full data team\n\nResearch institutions / projects needing additional analytical capacity"
+  },
+  {
+    "objectID": "en/index.html#projects-examples",
+    "href": "en/index.html#projects-examples",
+    "title": "Dirschbacher Data Lab",
+    "section": "",
+    "text": "Impact of Housing Conditions on Social Integration among Refugees (Master’s Thesis)\n- Panel data analysis (IAB-BAMF-SOEP Refugee Survey)\n- Focus: Relationship between duration of stay in collective housing, language proficiency, and social capital\n- Methods: Fixed-effects models, mediation, visualization of time trends\n(PDF or summary can be linked here later.)\nExample: Exploratory Analysis & Report with R\n- Data preparation, visualizations, clear reporting for non-technical audiences\n- Reproducible workflow with Git + R\n\n\n\n\nTransparent & reproducible: Code is versioned and documented.\n\nExplained, not just delivered: Results are prepared so they can be shared internally with ease.\n\nPragmatic: I prefer a clear, robust approach over overly complex models without added value."
+  },
+  {
+    "objectID": "en/index.html#tech-stack",
+    "href": "en/index.html#tech-stack",
+    "title": "Dirschbacher Data Lab",
+    "section": "",
+    "text": "R (tidyverse, ggplot2, fixest, broom, …)\n\nQuarto / RMarkdown for reports\n\nGit & GitHub for version control & collaboration\n\nExport to PDF, HTML, Word — depending on your needs"
+  },
+  {
+    "objectID": "en/index.html#about-me",
+    "href": "en/index.html#about-me",
+    "title": "Dirschbacher Data Lab",
+    "section": "",
+    "text": "I am a social scientist specializing in urban and regional development, working primarily with quantitative methods.\nI’m especially interested in topics such as migration, housing, inequality, and social networks — and how data can help us understand them better."
+  },
+  {
+    "objectID": "en/index.html#contact",
+    "href": "en/index.html#contact",
+    "title": "Dirschbacher Data Lab",
+    "section": "",
+    "text": "📧 EMail: dirschbacher-data-lab@posteo.de\n🔗 GitHub: @Svenja161\nFeel free to send me a message with a short description of your project — I’m happy to explore how I can support you."
+  }
+]
