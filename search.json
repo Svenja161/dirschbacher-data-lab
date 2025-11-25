@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "de/index.html",
+    "href": "de/index.html",
+    "title": "Data Science & Forschung",
+    "section": "",
+    "text": "Datenanalyse & Forschung mit R & Python – für NGOs, Unternehmen und Startups.\nIch unterstütze euch bei kleineren bis mittleren Analyse- und Forschungsprojekten – von explorativen Auswertungen bis hin zu sauberen, reproduzierbaren Reports.\n\n\n\n\n\n\nDeskriptive Auswertungen & Visualisierungen\n\nDashboards & interaktive Grafiken\n\nReproducible Reports (RMarkdown/Quarto, GitHub)\n\n\n\n\n\nFragebogen- & Studiendesign (quantitativ)\n\nAuswertung von Umfragedaten und Paneldaten\n\nUnterstützung bei Abschlussarbeiten und Projektreports\n\n\n\n\n\nMethodische Beratung (z. B. Paneldaten, Fixed Effects, Mediation)\n\nReview bestehender Analysen\n\nUnterstützung bei Datenaufbereitung & Dokumentation\n\n\n\n\n\n\n\nNGOs & Vereine, die ihre Wirkung besser sichtbar machen wollen\n\nUnternehmen & Startups, die Daten nutzen wollen, aber (noch) kein großes Data-Team haben\n\nForschungsprojekte & Institute, die zusätzliche Analysepower brauchen\n\n\n\n\n\n\n\n\nAnalyse von Paneldaten (IAB-BAMF-SOEP Refugee Survey)\n\nFokus: Zusammenhang zwischen Aufenthaltsdauer in Gemeinschaftsunterkünften, Sprachkompetenz & sozialem Kapital\n\nMethoden: Fixed-Effects-Modelle, Mediation, Zeitverlaufs-Visualisierungen\n\n\n\n\n\nDatenaufbereitung\n\nVisualisierung\n\nReproducible Workflow mit Git + R\n\n\n\n\n\n\n\nTransparent & reproduzierbar: Code ist versioniert und dokumentiert.\n\nErklärt statt nur geliefert: Ergebnisse werden verständlich aufbereitet.\n\nPragmatisch: Klare, robuste Lösungen statt unnötig komplexer Modelle.\n\n\n\n\n\n\nR (tidyverse, ggplot2, fixest, broom, …)\n\nQuarto für Reports & Websites\n\nGit & GitHub für Versionierung\n\nExport nach PDF, HTML, Word\n\n\n\n\n\n📧 dirschbacher-data-lab@posteo.de\n🔗 GitHub: @Svenja161"
+  },
+  {
+    "objectID": "de/index.html#leistungen",
+    "href": "de/index.html#leistungen",
+    "title": "Data Science & Forschung",
+    "section": "",
+    "text": "Deskriptive Auswertungen & Visualisierungen\n\nDashboards & interaktive Grafiken\n\nReproducible Reports (RMarkdown/Quarto, GitHub)\n\n\n\n\n\nFragebogen- & Studiendesign (quantitativ)\n\nAuswertung von Umfragedaten und Paneldaten\n\nUnterstützung bei Abschlussarbeiten und Projektreports\n\n\n\n\n\nMethodische Beratung (z. B. Paneldaten, Fixed Effects, Mediation)\n\nReview bestehender Analysen\n\nUnterstützung bei Datenaufbereitung & Dokumentation"
+  },
+  {
+    "objectID": "de/index.html#für-wen-ich-arbeite",
+    "href": "de/index.html#für-wen-ich-arbeite",
+    "title": "Data Science & Forschung",
+    "section": "",
+    "text": "NGOs & Vereine, die ihre Wirkung besser sichtbar machen wollen\n\nUnternehmen & Startups, die Daten nutzen wollen, aber (noch) kein großes Data-Team haben\n\nForschungsprojekte & Institute, die zusätzliche Analysepower brauchen"
+  },
+  {
+    "objectID": "de/index.html#beispielprojekte",
+    "href": "de/index.html#beispielprojekte",
+    "title": "Data Science & Forschung",
+    "section": "",
+    "text": "Analyse von Paneldaten (IAB-BAMF-SOEP Refugee Survey)\n\nFokus: Zusammenhang zwischen Aufenthaltsdauer in Gemeinschaftsunterkünften, Sprachkompetenz & sozialem Kapital\n\nMethoden: Fixed-Effects-Modelle, Mediation, Zeitverlaufs-Visualisierungen\n\n\n\n\n\nDatenaufbereitung\n\nVisualisierung\n\nReproducible Workflow mit Git + R"
+  },
+  {
+    "objectID": "de/index.html#arbeitsweise",
+    "href": "de/index.html#arbeitsweise",
+    "title": "Data Science & Forschung",
+    "section": "",
+    "text": "Transparent & reproduzierbar: Code ist versioniert und dokumentiert.\n\nErklärt statt nur geliefert: Ergebnisse werden verständlich aufbereitet.\n\nPragmatisch: Klare, robuste Lösungen statt unnötig komplexer Modelle."
+  },
+  {
+    "objectID": "de/index.html#tech-stack",
+    "href": "de/index.html#tech-stack",
+    "title": "Data Science & Forschung",
+    "section": "",
+    "text": "R (tidyverse, ggplot2, fixest, broom, …)\n\nQuarto für Reports & Websites\n\nGit & GitHub für Versionierung\n\nExport nach PDF, HTML, Word"
+  },
+  {
+    "objectID": "de/index.html#kontakt",
+    "href": "de/index.html#kontakt",
+    "title": "Data Science & Forschung",
+    "section": "",
+    "text": "📧 dirschbacher-data-lab@posteo.de\n🔗 GitHub: @Svenja161"
+  },
+  {
     "objectID": "en/index.html",
     "href": "en/index.html",
     "title": "Dirschbacher Data Lab",

@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Svenja161.github.io/dirschbacher-data-lab/en/projects.html</loc>
-    <lastmod>2025-11-25T18:27:38.928Z</lastmod>
+    <loc>https://Svenja161.github.io/dirschbacher-data-lab/de/projects.html</loc>
+    <lastmod>2025-11-25T18:37:05.143Z</lastmod>
   </url>
   <url>
-    <loc>https://Svenja161.github.io/dirschbacher-data-lab/en/index.html</loc>
-    <lastmod>2025-11-25T18:27:38.928Z</lastmod>
+    <loc>https://Svenja161.github.io/dirschbacher-data-lab/de/index.html</loc>
+    <lastmod>2025-11-25T18:37:05.143Z</lastmod>
   </url>
   <url>
     <loc>https://Svenja161.github.io/dirschbacher-data-lab/en/about.html</loc>
-    <lastmod>2025-11-25T18:27:38.928Z</lastmod>
+    <lastmod>2025-11-25T18:37:05.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Svenja161.github.io/dirschbacher-data-lab/en/index.html</loc>
+    <lastmod>2025-11-25T18:37:05.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Svenja161.github.io/dirschbacher-data-lab/en/projects.html</loc>
+    <lastmod>2025-11-25T18:37:05.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Svenja161.github.io/dirschbacher-data-lab/de/about.html</loc>
+    <lastmod>2025-11-25T18:37:05.143Z</lastmod>
   </url>
 </urlset>
