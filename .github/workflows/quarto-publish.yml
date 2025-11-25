@@ -1,33 +1,54 @@
 name: Quarto Publish
 
+# 👉 Wann soll der Roboter laufen?
+#    -> Jedes Mal, wenn du etwas auf den main-Branch pushst.
 on:
   push:
     branches: [ main ]
 
+# 👉 Welche Rechte darf der Roboter haben?
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 👉 Verhindert, dass sich mehrere Deploys gegenseitig in die Quere kommen.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      # 1) Repo-Code holen
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Set up Quarto
+      # 2) Quarto installieren
+      - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render Quarto Project
+      # 3) Quarto-Website bauen (erzeugt den docs/-Ordner)
+      - name: Render site
         uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html
 
-      - name: Upload to GitHub Pages
+      # 4) Ergebnis als „Paket“ für GitHub Pages hochladen
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # 5) Das hochgeladene Paket als Website ausrollen
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
