@@ -1,0 +1,79 @@
+title: "Data Science & Forschung"
+---
+
+# # Willkommen beim Dirschbacher Data Lab
+
+_Datenanalyse & Forschung mit R & Python – für NGOs, Unternehmen und Startups._
+Ich unterstütze euch bei kleineren bis mittleren Analyse- und Forschungsprojekten – von explorativen Auswertungen bis hin zu sauberen, reproduzierbaren Reports.
+
+---
+
+## Leistungen
+
+**Datenanalyse & Reporting**
+- Deskriptive Auswertungen, Visualisierungen, Dashboards
+- Reproducible Reports (RMarkdown/Quarto, GitHub)
+
+**Forschungsunterstützung**
+- Fragebogen- & Studiendesign (quantitativ)
+- Auswertung von Umfragedaten und Paneldaten
+- Unterstützung bei Abschlussarbeiten und Projektreports
+
+**Beratung & Sparring**
+- Methodische Beratung (z.B. Paneldaten, Fixed Effects, Mediation)
+- Review von bestehenden Analysen
+- Unterstützung bei Datenaufbereitung & Dokumentation
+
+---
+
+## Für wen ich arbeite
+
+- **NGOs & Vereine**, die ihre Wirkung besser sichtbar machen wollen  
+- **Unternehmen & Startups**, die Daten nutzen wollen, aber (noch) kein großes Data-Team haben  
+- **Forschungseinrichtungen / Projekte**, die zusätzliche Analysepower brauchen
+
+---
+
+## Projekte & Beispiele
+
+**Impact von Unterbringung auf soziale Integration von Geflüchteten (Masterarbeit)**  
+- Analyse von Paneldaten (IAB-BAMF-SOEP Refugee Survey)  
+- Fokus: Zusammenhang zwischen Aufenthaltsdauer in Gemeinschaftsunterkünften, Sprachkompetenz und sozialem Kapital  
+- Methoden: Fixed-Effects-Modelle, Mediation, Visualisierung von Zeitverläufen  
+
+*(PDF oder Zusammenfassung kann hier später verlinkt werden.)*
+
+**Beispiel: Explorative Analyse & Report mit R**
+- Datenaufbereitung, Visualisierungen, klarer Report für Nicht-Techniker*innen
+- Reproducible Workflow mit Git + R
+
+---
+
+## Wie ich arbeite
+
+- **Transparent & reproduzierbar**: Code ist versioniert und dokumentiert.
+- **Erklärt statt nur geliefert**: Ergebnisse werden so aufbereitet, dass sie intern weitergetragen werden können.
+- **Pragmatisch**: Lieber ein klarer, robuster Ansatz als ein überkomplexes Modell ohne Mehrwert.
+
+---
+
+## Tech-Stack
+
+- **R** (Tidyverse, ggplot2, fixest, broom, …)  
+- **Quarto / RMarkdown** für Reports  
+- **Git & GitHub** für Versionierung & Zusammenarbeit  
+- Export nach **PDF, HTML, Word** – je nach Bedarf
+
+---
+
+## Über mich
+
+Ich bin Sozialwissenschaftler*in mit Schwerpunkt Stadt- und Regionalentwicklung und arbeite vor allem mit quantitativen Methoden.  
+Besonders interessieren mich Themen wie **Migration, Wohnen, Ungleichheit und soziale Netzwerke** – und wie man sie mit Daten besser versteht.
+
+---
+
+## Kontakt
+
+📧 E-Mail: [dirschbacher-data-lab@posteo.de](mailto:dirschbacher-data-lab@posteo.de)  
+🔗 GitHub: [@Svenja161](https://github.com/Svenja161)

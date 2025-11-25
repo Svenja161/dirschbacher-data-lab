@@ -1,0 +1,83 @@
+title: "Data Science & Research"
+---
+
+# Welcome to the Dirschbacher Data Lab
+
+_Data analysis & research with R & Python – for NGOs, companies and startups._
+I support small to medium-sized analysis and research projects — from exploratory analyses to clean, fully reproducible reports.
+---
+
+## Services
+
+## Services
+
+**Data Analysis & Reporting**
+- Descriptive analyses, visualizations, dashboards  
+- Reproducible reports (RMarkdown/Quarto, GitHub)
+
+**Research Support**
+- Questionnaire and study design (quantitative)  
+- Analysis of survey and panel data  
+- Support for academic theses and research reports
+
+**Consulting & Sparring**
+- Methodological consulting (e.g., panel data, fixed effects, mediation)  
+- Review of existing analyses  
+- Support with data cleaning & documentation
+
+
+---
+
+## Who I work with
+
+- **NGOs & non-profits** aiming to make their impact more visible  
+- **Companies & startups** that want to leverage data but don’t yet have a full data team  
+- **Research institutions / projects** needing additional analytical capacity
+
+---
+
+## Projects & Examples
+
+**Impact of Housing Conditions on Social Integration among Refugees (Master’s Thesis)**  
+- Panel data analysis (IAB-BAMF-SOEP Refugee Survey)  
+- Focus: Relationship between duration of stay in collective housing, language proficiency, and social capital  
+- Methods: Fixed-effects models, mediation, visualization of time trends  
+
+*(PDF or summary can be linked here later.)*
+
+**Example: Exploratory Analysis & Report with R**  
+- Data preparation, visualizations, clear reporting for non-technical audiences  
+- Reproducible workflow with Git + R
+
+---
+
+### How I work
+
+- **Transparent & reproducible**: Code is versioned and documented.  
+- **Explained, not just delivered**: Results are prepared so they can be shared internally with ease.  
+- **Pragmatic**: I prefer a clear, robust approach over overly complex models without added value.
+
+---
+
+## Tech Stack
+
+- **R** (tidyverse, ggplot2, fixest, broom, …)  
+- **Quarto / RMarkdown** for reports  
+- **Git & GitHub** for version control & collaboration  
+- Export to **PDF, HTML, Word** — depending on your needs
+
+---
+
+## About me
+
+I am a social scientist specializing in urban and regional development, working primarily with quantitative methods.  
+I’m especially interested in topics such as **migration, housing, inequality, and social networks** — and how data can help us understand them better.
+
+---
+
+## Contact
+
+📧 EMail: [dirschbacher-data-lab@posteo.de](mailto:dirschbacher-data-lab@posteo.de)  
+🔗 GitHub: [@Svenja161](https://github.com/Svenja161)
+
+Feel free to send me a message with a short description of your project — I’m happy to explore how I can support you.
