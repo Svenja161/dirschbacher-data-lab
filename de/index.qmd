@@ -1,0 +1,75 @@
+---
+title: "Data Science & Forschung"
+lang: de
+---
+
+# Willkommen beim Dirschbacher Data Lab
+
+_Datenanalyse & Forschung mit R & Python – für NGOs, Unternehmen und Startups._
+
+Ich unterstütze euch bei kleineren bis mittleren Analyse- und Forschungsprojekten – von explorativen Auswertungen bis hin zu sauberen, reproduzierbaren Reports.
+
+---
+
+## Leistungen
+
+### 🧮 Datenanalyse & Reporting
+- Deskriptive Auswertungen & Visualisierungen  
+- Dashboards & interaktive Grafiken  
+- Reproducible Reports (RMarkdown/Quarto, GitHub)
+
+### 🔬 Forschungsunterstützung
+- Fragebogen- & Studiendesign (quantitativ)  
+- Auswertung von Umfragedaten und Paneldaten  
+- Unterstützung bei Abschlussarbeiten und Projektreports  
+
+### 💬 Beratung & Sparring
+- Methodische Beratung (z. B. Paneldaten, Fixed Effects, Mediation)  
+- Review bestehender Analysen  
+- Unterstützung bei Datenaufbereitung & Dokumentation  
+
+---
+
+## Für wen ich arbeite
+
+- **NGOs & Vereine**, die ihre Wirkung besser sichtbar machen wollen  
+- **Unternehmen & Startups**, die Daten nutzen wollen, aber (noch) kein großes Data-Team haben  
+- **Forschungsprojekte & Institute**, die zusätzliche Analysepower brauchen  
+
+---
+
+## Beispielprojekte
+
+### 🎓 Masterarbeit: Unterbringung & soziale Integration
+- Analyse von Paneldaten (IAB-BAMF-SOEP Refugee Survey)  
+- Fokus: Zusammenhang zwischen Aufenthaltsdauer in Gemeinschaftsunterkünften, Sprachkompetenz & sozialem Kapital  
+- Methoden: Fixed-Effects-Modelle, Mediation, Zeitverlaufs-Visualisierungen  
+
+### 📊 Explorative Analyse & Report mit R
+- Datenaufbereitung  
+- Visualisierung  
+- Reproducible Workflow mit Git + R  
+
+---
+
+## Arbeitsweise
+
+- **Transparent & reproduzierbar**: Code ist versioniert und dokumentiert.  
+- **Erklärt statt nur geliefert**: Ergebnisse werden verständlich aufbereitet.  
+- **Pragmatisch**: Klare, robuste Lösungen statt unnötig komplexer Modelle.  
+
+---
+
+## Tech-Stack
+
+- **R** (tidyverse, ggplot2, fixest, broom, …)  
+- **Quarto** für Reports & Websites  
+- **Git & GitHub** für Versionierung  
+- Export nach **PDF, HTML, Word**  
+
+---
+
+## Kontakt
+
+📧 dirschbacher-data-lab@posteo.de  
+🔗 GitHub: [@Svenja161](https://github.com/Svenja161)
