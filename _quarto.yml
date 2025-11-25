@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Dirschbacher Data Lab"
@@ -9,11 +10,11 @@ website:
       - icon: github
         href: "https://github.com/Svenja161"
 
-lang: de   # Standardsprache
+lang: de
 
 languages:
   de:
-    href: /dirschbacher-data-lab/de/
+    href: de/
     title: "Dirschbacher Data Lab"
     navbar:
       left:
@@ -25,10 +26,10 @@ languages:
           text: "Über mich"
       right:
         - text: English
-          href: /dirschbacher-data-lab/en/
+          href: ../en/index.html
 
   en:
-    href: /dirschbacher-data-lab/en/
+    href: en/
     title: "Dirschbacher Data Lab"
     navbar:
       left:
@@ -40,7 +41,7 @@ languages:
           text: "About me"
       right:
         - text: Deutsch
-          href: /dirschbacher-data-lab/de/
+          href: ../de/index.html
 
 format:
   html:
