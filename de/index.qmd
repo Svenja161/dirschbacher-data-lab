@@ -1,4 +1,6 @@
+---
 title: "Data Science & Forschung"
+lang: de
 ---
 
 # # Willkommen beim Dirschbacher Data Lab
