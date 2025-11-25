@@ -1,4 +1,20 @@
-title: "Data Science & Research"
+---
+title: "Dirschbacher Data Lab"
+lang: en
+website:
+  navbar:
+    left:
+      - href: index.en.qmd
+        text: "Home"
+      - href: projects.en.qmd
+        text: "Projects"
+      - href: about.en.qmd
+        text: "About me"
+    right:
+      - text: "Deutsch"
+        href: index.qmd
+      - icon: github
+        href: "https://github.com/Svenja161"
 ---
 
 # Welcome to the Dirschbacher Data Lab
@@ -6,8 +22,6 @@ title: "Data Science & Research"
 _Data analysis & research with R & Python – for NGOs, companies and startups._
 I support small to medium-sized analysis and research projects — from exploratory analyses to clean, fully reproducible reports.
 ---
-
-## Services
 
 ## Services
 

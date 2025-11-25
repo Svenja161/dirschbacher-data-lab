@@ -4,31 +4,33 @@ project:
 
 website:
   title: "Dirschbacher Data Lab"
+  navbar:
+    right:
+      - icon: github
+        href: "https://github.com/Svenja161"
 
-  language: 
+  # Multi-Language Setup
+  languages:
     de:
-      label: "Deutsch"
-      dir: "de"
-      lang: "de"
+      title: "Dirschbacher Data Lab"
       navbar:
         left:
-          - href: index.qmd
+          - href: index.de.qmd
             text: "Start"
-          - href: projects.qmd
+          - href: projects.de.qmd
             text: "Projekte"
-          - href: about.qmd
+          - href: about.de.qmd
             text: "Über mich"
+
     en:
-      label: "English"
-      dir: "en"
-      lang: "en"
+      title: "Dirschbacher Data Lab"
       navbar:
         left:
-          - href: index.qmd
+          - href: index.en.qmd
             text: "Home"
-          - href: projects.qmd
+          - href: projects.en.qmd
             text: "Projects"
-          - href: about.qmd
+          - href: about.en.qmd
             text: "About me"
 
 format:
@@ -36,6 +38,3 @@ format:
     theme: cosmo
     toc: true
     css: styles.css
-
-# Sprache, die geladen wird, wenn keine andere gewählt wird:
-default-language: de

@@ -2,5 +2,3 @@
 title: "Projects"
 lang: en
 ---
-
-# Projects & Case Studies
