@@ -3,15 +3,6 @@ project:
 
 website:
   title: "Dirschbacher Data Lab"
-  navbar:
-    left:
-      - text: Deutsch
-        href: de/index.qmd
-      - text: English
-        href: en/index.qmd
-    right:
-      - icon: github
-        href: "https://github.com/Svenja161"
 
 format:
   html:
