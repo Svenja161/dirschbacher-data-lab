@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -18,18 +18,7 @@ jobs:
       - name: Render site
         run: quarto render
 
-      - name: Upload site artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: site
-          path: _site
-
-      - name: Download artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: site
-
-      - name: Publish to GitHub Pages
+      - name: Publish to GitHub Pages (gh-pages branch)
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
