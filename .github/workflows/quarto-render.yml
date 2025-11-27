@@ -15,11 +15,8 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render DE
-        run: quarto render --profile de
-
-      - name: Render EN
-        run: quarto render --profile en
+      - name: Render full site
+        run: quarto render
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2

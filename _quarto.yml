@@ -1,47 +1,17 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Dirschbacher Data Lab"
-
   navbar:
+    left:
+      - text: Deutsch
+        href: de/index.qmd
+      - text: English
+        href: en/index.qmd
     right:
       - icon: github
         href: "https://github.com/Svenja161"
-
-lang: de
-
-languages:
-  de:
-    href: de/
-    title: "Dirschbacher Data Lab"
-    navbar:
-      left:
-        - href: de/index.qmd
-          text: "Start"
-        - href: de/projects.qmd
-          text: "Projekte"
-        - href: de/about.qmd
-          text: "Über mich"
-      right:
-        - text: English
-          href: ../en/index.html
-
-  en:
-    href: en/
-    title: "Dirschbacher Data Lab"
-    navbar:
-      left:
-        - href: en/index.qmd
-          text: "Home"
-        - href: en/projects.qmd
-          text: "Projects"
-        - href: en/about.qmd
-          text: "About me"
-      right:
-        - text: Deutsch
-          href: ../de/index.html
 
 format:
   html:
