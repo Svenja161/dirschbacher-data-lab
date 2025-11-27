@@ -2,8 +2,21 @@ project:
   type: website
 
 website:
-  title: "Dirschbacher Data Lab (EN)"
+  title: "Dirschbacher Data Lab"
   lang: en
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - text: Deutsch
+        href: ../de/index.qmd
+      - icon: github
+        href: "https://github.com/Svenja161"
 
 format:
   html:
