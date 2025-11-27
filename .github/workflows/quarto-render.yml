@@ -9,14 +9,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render full site
+      - name: Render site
         run: quarto render
+
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: site
+          path: _site
+
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: site
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
